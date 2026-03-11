@@ -1,2 +1,3 @@
-# PowerBI-Sales-Dashboard
-Sales analysis dashboard created using Power BI
+## Power BI Dashboard Preview
+
+![Dashboard](dashboard.png)
